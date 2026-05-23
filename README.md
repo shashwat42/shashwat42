@@ -1,150 +1,136 @@
+<!-- SPOTIFY THEME — background: #121212, accent: #1DB954, text: #FFFFFF / #B3B3B3 -->
+
 <div align="center">
 
-```
-  ╔══════════════════════════════════════╗
-  ║   /\_/\   hey, i'm shashwat  /\_/\  ║
-  ║  ( o.o )  backend engineer  ( o.o ) ║
-  ║   > ^ <    KIIT '27 · Delhi  > ^ <  ║
-  ╚══════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=header&fontColor=ffffff&fontSize=14" width="100%"/>
 
-**`shashwat42`** · he/him · building systems that hold up ☕
+<!-- ░░ PLAYLIST COVER — replace the image below with your own cover art ░░ -->
+<!-- Upload your image to the repo and change the src path, e.g. src="./cover.png" -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-shashwat42-black?style=for-the-badge&logo=github)](https://github.com/shashwat42)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashwat-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shashwat)
-![Status](https://img.shields.io/badge/🔨_Building-TrailDesk-FF6B6B?style=for-the-badge)
-![Collabs](https://img.shields.io/badge/🤝_Open_To-Collaborators-4ECDC4?style=for-the-badge)
+<img src="https://i.pinimg.com/736x/92/11/9e/92119e2f705152a205596b87663c5cfe.jpg" width="220" style="border-radius:8px" alt="playlist cover"/>
+
+<br/>
+
+![Codify](https://img.shields.io/badge/Codify-shashwat42-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
+### ▶ &nbsp; shashwat — *backend engineer*
+**`shashwat42`** &nbsp;·&nbsp; KIIT '27 &nbsp;·&nbsp; Delhi &nbsp;·&nbsp; he/him
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-shashwat42-121212?style=for-the-badge&logo=github&logoColor=1DB954)](https://github.com/shashwat42)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashwat-121212?style=for-the-badge&logo=linkedin&logoColor=1DB954)](https://linkedin.com/in/shashwat)
+![Collabs](https://img.shields.io/badge/♡_Open_To-Collaborators-121212?style=for-the-badge&logoColor=1DB954)
 
 </div>
 
 ---
 
-## ˗ˏˋ ☕ about me ☕ ´ˎ˗
+<div align="center"><sub>▬▬▬▬▬▬▬◉─────────────── 1:24 / 4:20</sub></div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/01-1DB954?style=flat-square&logoColor=white"/> &nbsp; about.mp3
+
+> *backend engineer who builds the layer between data and product —*
+> *REST APIs, database schemas, auth pipelines,*
+> *and the middleware nobody sees but everyone depends on.*
+
+| | |
+|---|---|
+| 🎵 **currently on** | Backend Dev |
+| 🎛️ **stack** | node + express + prisma + REST API Design |
+| 🎚️ **mode** | frontend when needed · ml when it solves something |
+| 📍 **location** | Delhi, India |
+
+---
+
+## <img src="https://img.shields.io/badge/02-1DB954?style=flat-square"/> &nbsp; stack.wav
+
+<div>
+
+| 🟢 backend | 🟢 frontend | 🟢 ai / ml | 🟢 cloud & tooling |
+|:---:|:---:|:---:|:---:|
+| Node.js | React | Claude API | Git · GitHub |
+| Express.js | Tailwind CSS | scikit-learn | Firebase |
+| Prisma ORM | JavaScript | TensorFlow | Render |
+| PostgreSQL | Streamlit | OpenCV | Oracle Cloud |
+| TypeScript | | Pandas · NumPy | Linux · SAP BTP |
+| Zod · JWT · Auth0 | | | |
+| REST API design | | | |
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/03-1DB954?style=flat-square"/> &nbsp; patterns.flac
 
 ```
-  ╔═════════════════════════════════════════════════════════╗
-  ║                                                         ║
-  ║   🎧  headphones on · compiler running · coffee ready   ║
-  ║                                                         ║
-  ║   i build the layer between data and product —          ║
-  ║   REST APIs, database schemas, auth pipelines, and      ║
-  ║   the middleware nobody sees but everyone depends on.   ║
-  ║                                                         ║
-  ║                                                         ║
-  ║   frontend when needed · ml when it solves something    ║
-  ║                                                         ║
-  ╚═════════════════════════════════════════════════════════╝
+  ♪  REST API design ........  endpoints · pagination · filtering
+  ♪  multi-tenant auth .......  org-scoped · role-based access
+  ♪  JWT pipelines ...........  Auth0 integration · middleware
+  ♪  Zod validation ..........  schema-first · typed contracts
+  ♪  Prisma ORM ..............  schema design · data consistency
+  ♪  audit logging ...........  compliance-safe · trail integrity
+  ♪  AI integration ..........  streaming · rate limiting · cache
+  ♪  modular architecture ....  routes · controllers · services
 ```
 
 ---
 
-## ˗ˏˋ ⌨️ stack ⌨️ ´ˎ˗
+## <img src="https://img.shields.io/badge/04-1DB954?style=flat-square"/> &nbsp; now_playing.live
 
 ```
-  ╔══════════════════════════╦══════════════════════════╗
-  ║   🐾  BACKEND            ║   🌿  FRONTEND           ║
-  ╠══════════════════════════╬══════════════════════════╣
-  ║   ◉  Node.js             ║   ◉  React               ║
-  ║   ◉  Express.js          ║   ◉  Tailwind CSS        ║
-  ║   ◉  Prisma ORM          ║   ◉  JavaScript          ║
-  ║   ◉  PostgreSQL          ║   ◉  Streamlit           ║
-  ║   ◉  TypeScript          ║                          ║
-  ║   ◉  Zod validation      ║                          ║
-  ║   ◉  JWT / Auth0         ║                          ║
-  ║   ◉  REST API design     ║                          ║
-  ╠══════════════════════════╬══════════════════════════╣
-  ║   🤖  AI / ML            ║   ☁️  CLOUD & TOOLING    ║
-  ╠══════════════════════════╬══════════════════════════╣
-  ║   ◉  Seaborn             ║   ◉  Git / GitHub        ║
-  ║   ◉  scikit-learn        ║   ◉  Firebase            ║
-  ║   ◉  TensorFlow          ║   ◉  Render              ║
-  ║   ◉  OpenCV              ║   ◉  Oracle Cloud        ║
-  ║   ◉  Pandas / NumPy      ║   ◉  Linux / SAP BTP     ║
-  ╚══════════════════════════╩══════════════════════════╝
+  ╔══════════════════════════════════════════════════════════╗
+  ║  ▶  NOW PLAYING — shashwat42's workspace                 ║
+  ╠══════════════════════════════════════════════════════════╣
+  ║                                                          ║
+  ║  Node + Express      ████████████░░   ▶ active           ║
+  ║  React + Tailwind    ██████████░░░░   ▶ deepening        ║
+  ║  full-stack journey  ████████░░░░░░   ▶ in progress      ║
+  ║  open to collabs     █████████████   ♡ always            ║
+  ║                                                          ║
+  ╠══════════════════════════════════════════════════════════╣
+  ║  🎧  Heavy Metal?, probably              ▬◉────────  ║
+  ╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ˗ˏˋ 🐱 backend patterns 🐱 ´ˎ˗
+## <img src="https://img.shields.io/badge/05-1DB954?style=flat-square"/> &nbsp; stats.ogg
 
 ```
-  ╔═════════════════════════════════════════════════════════════════════╗
-  ║                                                                     ║
-  ║  ◈  REST API design ........  endpoints · pagination · filtering    ║
-  ║  ◈  multi-tenant auth .......  org-scoped · role-based access       ║
-  ║  ◈  JWT pipelines ...........  Auth0 integration · middleware       ║
-  ║  ◈  Zod validation ..........  schema-first · typed contracts       ║
-  ║  ◈  Prisma ORM ..............  schema design · data consistency     ║
-  ║  ◈  audit logging ...........  compliance-safe · trail integrity    ║
-  ║  ◈  AI integration ..........  streaming · rate limiting · cache    ║
-  ║  ◈  modular architecture ....  routes · controllers · services      ║
-  ║                                                                     ║
-  ╚═════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## ˗ˏˋ 🎧 right now 🎧 ´ˎ˗
-
-```
-  ╔═════════════════════════════════════════════════════════╗
-  ║   🎧  currently playing: The Smiths, probably           ║
-  ╠═════════════════════════════════════════════════════════╣
-  ║                                                         ║
-  ║   TrailDesk backend  ████████████░░  active & shipping  ║
-  ║   React + Tailwind   ██████████░░░░  deepening          ║
-  ║   full-stack journey ████████░░░░░░  in progress        ║
-  ║   open to collabs    █████████████  always yes ♡        ║
-  ║                                                         ║
-  ╠═════════════════════════════════════════════════════════╣
-  ║                                                         ║
-  ║    /\___/\     "the best code is the one that           ║
-  ║   ( • ω • )     runs quietly at 3am while               ║
-  ║   (       )     everyone's asleep"           /\___/\   ║
-  ║    \     /                                  ( - ω - )  ║
-  ║     \   /                              zzz  (       )  ║
-  ║      \_/                                     \_____/   ║
-  ║                                                         ║
-  ╚═════════════════════════════════════════════════════════╝
-```
-
----
-
-## ˗ˏˋ 📊 github stats 📊 ´ˎ˗
-
-```
-  ╔═════════════════════════════════════════════════════════╗
-  ║                   🐾 language breakdown                 ║
-  ╠══════════════╦══════════════════════════╦═══════════════╣
+  ╔══════════════╦══════════════════════════╦═══════════════╗
+  ║  language    ║  plays                   ║  genre        ║
+  ╠══════════════╬══════════════════════════╬═══════════════╣
   ║  typescript  ║  ████████████████████░░  ║  backend      ║
   ╠══════════════╬══════════════════════════╬═══════════════╣
   ║  python      ║  ███████████████░░░░░░░  ║  ML / AI      ║
   ╠══════════════╬══════════════════════════╬═══════════════╣
-  ║  React       ║  ██████████░░░░░░░░░░░░  ║  frontend     ║
+  ║  javascript  ║  ██████████░░░░░░░░░░░░  ║  growing      ║
   ╚══════════════╩══════════════════════════╩═══════════════╝
 ```
 
-> live stats → [github.com/shashwat42](https://github.com/shashwat42)
+> full discography → [github.com/shashwat42](https://github.com/shashwat42)
 
 ---
 
-## ˗ˏˋ 📬 find me 📬 ´ˎ˗
+## <img src="https://img.shields.io/badge/06-1DB954?style=flat-square"/> &nbsp; find_me.aac
 
 ```
-  ╔═════════════════════════════════════════════════════════╗
-  ║                                                         ║
-  ║   ⌨️   github    ──►  github.com/shashwat42             ║
-  ║   🖱️   linkedin  ──►  linkedin.com/in/shashwat          ║
-  ║   📬   email     ──►  shashwatsingh2405@gmail.com       ║
-  ║                                                         ║
-  ╚═════════════════════════════════════════════════════════╝
+  ♫  github    ──►  github.com/shashwat42
+  ♫  linkedin  ──►  linkedin.com/in/shashwat
+  ♫  email     ──►  shashwatsingh2405@gmail.com
 ```
-
-
 
 ---
 
 <div align="center">
-<sub>KIIT University · B.Tech Information Technology · Class of 2027 </sub><br>
-<sub>· · · ☕ · 🎧 · ⌨️ · 🖱️ · 🐾 · · ·</sub>
+
+*thanks for listening ♡*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=80&section=footer" width="100%"/>
+
+<sub>KIIT University · B.Tech Information Technology · Class of 2027 · 8.32 CGPA</sub>
+
 </div>
