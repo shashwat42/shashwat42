@@ -30,8 +30,6 @@
   ║   REST APIs, database schemas, auth pipelines, and      ║
   ║   the middleware nobody sees but everyone depends on.   ║
   ║                                                         ║
-  ║   🐾  TrailDesk  —  AI clinical trial management        ║
-  ║   multi-tenant arch · JWT auth · Prisma · Claude AI     ║
   ║                                                         ║
   ║   frontend when needed · ml when it solves something    ║
   ║                                                         ║
@@ -90,7 +88,7 @@
 
 ```
   ╔═════════════════════════════════════════════════════════╗
-  ║   🎧  currently playing: something lo-fi, probably      ║
+  ║   🎧  currently playing: The Smiths, probably           ║
   ╠═════════════════════════════════════════════════════════╣
   ║                                                         ║
   ║   TrailDesk backend  ████████████░░  active & shipping  ║
@@ -118,11 +116,11 @@
   ╔═════════════════════════════════════════════════════════╗
   ║                   🐾 language breakdown                 ║
   ╠══════════════╦══════════════════════════╦═══════════════╣
-  ║  typescript  ║  ████████████████████░░  ║  backend · heavy  ║
+  ║  typescript  ║  ████████████████████░░  ║  backend      ║
   ╠══════════════╬══════════════════════════╬═══════════════╣
   ║  python      ║  ███████████████░░░░░░░  ║  ML / AI      ║
   ╠══════════════╬══════════════════════════╬═══════════════╣
-  ║  javascript  ║  ██████████░░░░░░░░░░░░  ║  growing      ║
+  ║  React       ║  ██████████░░░░░░░░░░░░  ║  frontend     ║
   ╚══════════════╩══════════════════════════╩═══════════════╝
 ```
 
