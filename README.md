@@ -2,121 +2,143 @@
 
 <br/>
 
-## ░ S H A S H W A T ░
-### ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-
 ```
-  ╔══════════════════════════════════════════════════╗
-  ║  FILE: shashwat42.exe       CLEARANCE: UNKNOWN   ║
-  ║  ROLE: ██████████████████   STATUS:  ACTIVE       ║
-  ║  NOTE: ████████████ in the shadows. ████████.     ║
-  ╚══════════════════════════════════════════════════╝
+░██████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗    ██╗ █████╗ ████████╗
+██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██║    ██║██╔══██╗╚══██╔══╝
+╚█████╗ ███████║███████║███████╗███████║██║ █╗ ██║███████║   ██║
+ ╚═══██╗██╔══██║██╔══██║╚════██║██╔══██║██║███╗██║██╔══██║   ██║
+██████╔╝██║  ██║██║  ██║███████║██║  ██║╚███╔███╔╝██║  ██║   ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FFB2&center=true&vCenter=true&width=435&lines=aspiring+full+stack+developer;ai+%2B+backend+%2B+whatever+it+takes;always+shipping%2C+never+sleeping)
+### ✦ &nbsp; &nbsp; ✦
+
+*Bearer of APIs &nbsp;·&nbsp; Scholar of KIIT &nbsp;·&nbsp; Class of '27*
+
+</div>
 
 <br/>
 
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### `> whoami`
-
-```bash
-$ cat profile.json
-{
-  "name"     : "Shashwat Singh",
-  "alias"    : "shashwat42",
-  "status"   : "compiling dreams into deployable code",
-  "exploring": ["full-stack systems", "AI integrations", "clean architecture"],
-  "learning" : "always",
-  "fun_fact"  : "42 isn't just a username — it's a philosophy"
-}
 ```
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### `> cat interests.log`
-
-```
-[SYS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-  ⬡  SYSTEMS & APIs         →  how data moves, scales, and survives
-  ⬡  AI / LLM ENGINEERING   →  wiring intelligence into real products  
-  ⬡  DATA & ML              →  turning numbers into decisions
-  ⬡  CLEAN CODE             →  readable > clever, always
-
-[SYS] ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### `> ls tech/`
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-%2300FFB2?style=flat-square&logo=python&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2300FFB2?style=flat-square&logo=typescript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%2300FFB2?style=flat-square&logo=javascript&logoColor=black)
-
-**Build**
-
-![Node.js](https://img.shields.io/badge/Node.js-%23FF2D78?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23FF2D78?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF2D78?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data & AI**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23BF5FFF?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%23BF5FFF?style=flat-square&logo=prisma&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23BF5FFF?style=flat-square&logo=scikit-learn&logoColor=white)
-
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### `> stats --live`
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=shashwat42&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&title_color=00FFB2&icon_color=FF2D78&text_color=ffffff&bg_color=0d1117)
-
-![Streak](https://streak-stats.demolab.com/?user=shashwat42&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FFB2&fire=FF2D78&currStreakLabel=BF5FFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat42&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFB2&text_color=ffffff)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### `> ping shashwat42`
-
-```
-STATUS:  █████████░  building something new
-STACK:   expanding from backend → full-stack
-COLLAB:  open to interesting problems
-VIBE:    ship it, learn from it, ship better
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <br/>
 
+## ⬡ &nbsp; A T T R I B U T E S
+
+<br/>
+
+```
+  ┌─────────────────────────────────────────────────────┐
+  │                                                     │
+  │   Alias      ──────────────────────  shashwat42    │
+  │   Covenant   ──────────────────────  Full Stack    │
+  │   Origin     ──────  KIIT University, Bhubaneswar  │
+  │   Condition  ──────────────────  Always building   │
+  │                                                     │
+  └─────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<br/>
+
+## ⬡ &nbsp; I T E M &nbsp; D I S C O V E R Y
+
+<br/>
+
+> ### 📜 &nbsp; Tome of Systems & APIs
+> Detailed notes on scalable architectures, backend patterns, and the paths data takes through distributed systems.
+
+<br/>
+
+> ### 🔮 &nbsp; Soul of the Language Model
+> A fragment dedicated to integrating AI into real-world applications — where intelligence meets practical systems.
+
+<br/>
+
+> ### ⚗️ &nbsp; Shard of Clean Code
+> A small reminder that maintainable code outlives clever code. Best kept close during reviews and refactors.
+
+<br/>
+
+> ### 🔥 &nbsp; Ember of the Data Flame
+> Used to uncover patterns hidden inside large volumes of data. Burns brightest with patience and good tooling.
+
+<br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<br/>
+
+## ⬡ &nbsp; A R S E N A L
+
+<br/>
+
+**Tongues spoken**
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=f5c542)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=f5c542)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f5c542)
+
+<br/>
+
+**Schools of Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=f5c542)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=f5c542)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=f5c542)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1a1a?style=for-the-badge&logo=streamlit&logoColor=f5c542)
+
+<br/>
+
+**Relics & Catalysts**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=f5c542)
+![Prisma](https://img.shields.io/badge/Prisma-1a1a1a?style=for-the-badge&logo=prisma&logoColor=f5c542)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikit-learn&logoColor=f5c542)
+
+<br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<br/>
+
+## ⬡ &nbsp; C U R R E N T &nbsp; S T A T E
+
+<br/>
+
+```
+  🔥  Bonfire lit ────────────────────── forging something new
+  ⚔️  Covenant ────────────────  open to worthy collaborators
+  🗺️  Exploring ──────────────── the path from backend to full-stack
+```
+
+<br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-shashwat42-00FFB2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shashwat42)
+<br/>
 
-```
-// thanks for dropping by  🔥
-// the net is vast and infinite
-```
+[![GitHub](https://img.shields.io/badge/github-shashwat42-1a1a1a?style=for-the-badge&logo=github&logoColor=f5c542)](https://github.com/shashwat42)
+
+<br/>
+
+*You died trying to read undocumented APIs. &nbsp;+1,200 souls.*
+
+<br/>
 
 </div>
