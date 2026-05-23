@@ -1,4 +1,4 @@
-<!-- SPOTIFY THEME — background: #121212, accent: #1DB954, text: #FFFFFF / #B3B3B3 -->
+  <!-- SPOTIFY THEME — background: #121212, accent: #1DB954, text: #FFFFFF / #B3B3B3 -->
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-shashwat42-121212?style=for-the-badge&logo=github&logoColor=1DB954)](https://github.com/shashwat42)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashwat-121212?style=for-the-badge&logo=linkedin&logoColor=1DB954)](https://linkedin.com/in/shashwat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashwat-121212?style=for-the-badge&logo=linkedin&logoColor=1DB954)](https://www.linkedin.com/in/shashwat-singh-b34772289/)
 ![Collabs](https://img.shields.io/badge/♡_Open_To-Collaborators-121212?style=for-the-badge&logoColor=1DB954)
 
 </div>
@@ -131,6 +131,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=80&section=footer" width="100%"/>
 
-<sub>KIIT University · B.Tech Information Technology · Class of 2027 · 8.32 CGPA</sub>
+<sub>KIIT University · B.Tech Information Technology · Class of 2027</sub>
 
 </div>
