@@ -1,144 +1,95 @@
 <div align="center">
 
-<br/>
-
 ```
-░██████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗    ██╗ █████╗ ████████╗
-██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██║    ██║██╔══██╗╚══██╔══╝
-╚█████╗ ███████║███████║███████╗███████║██║ █╗ ██║███████║   ██║
- ╚═══██╗██╔══██║██╔══██║╚════██║██╔══██║██║███╗██║██╔══██║   ██║
-██████╔╝██║  ██║██║  ██║███████║██║  ██║╚███╔███╔╝██║  ██║   ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝
+ _____ _   _    _    _____ _   ___        ___  _  _____
+/ ____| | | |  / \  / ____| | | \ \      / / \| ||_   _|
+\___  | |_| | / _ \ \___  | |_| |\ \ /\ / /| . ` | | |
+ ___) |  _  |/ ___ \ ___) |  _  | \ V  V / | |\  | | |
+|_____/_| |_/_/   \_\_____/_| |_|  \_/\_/  |_| \_||_|
 ```
 
-### ✦ &nbsp; &nbsp; ✦
+**`shashwat42`** · full-stack developer · KIIT University '27
 
-*Bearer of APIs &nbsp;·&nbsp; Scholar of KIIT &nbsp;·&nbsp; Class of '27*
+[![GitHub](https://img.shields.io/badge/GitHub-shashwat42-black?style=for-the-badge&logo=github)](https://github.com/shashwat42)
+![Status](https://img.shields.io/badge/🔨_Building-Something_New-FF6B6B?style=for-the-badge)
+![Collabs](https://img.shields.io/badge/🤝_Open_To-Collaborators-4ECDC4?style=for-the-badge)
 
 </div>
 
-<br/>
+---
+
+## 👋 about me
+
+Backend engineer making the full-stack leap. I care about systems that scale without turning into spaghetti — clean interfaces, sensible architecture, code that the next person (usually future me) can actually understand.
+
+Currently somewhere between *it works* and *it works well*.
+
+---
+
+## 🛠️ tech stack
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+┌─────────────────────────────────────────────────────────────┐
+│  LANGUAGES                                                  │
+│                                                             │
+│  [py]  Python        [ts]  TypeScript    [js]  JavaScript   │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│  FRAMEWORKS & RUNTIMES                                      │
+│                                                             │
+│  [>>]  Node.js       [/\]  FastAPI       [--]  Express      │
+│  [st]  Streamlit                                            │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│  DATABASES & TOOLS                                          │
+│                                                             │
+│  [db]  PostgreSQL    [pr]  Prisma        [sk]  scikit-learn │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+---
 
-## ⬡ &nbsp; A T T R I B U T E S
-
-<br/>
+## 🧠 what I think about
 
 ```
-  ┌─────────────────────────────────────────────────────┐
-  │                                                     │
-  │   Alias      ──────────────────────  shashwat42    │
-  │   Covenant   ──────────────────────  Full Stack    │
-  │   Origin     ──────  KIIT University, Bhubaneswar  │
-  │   Condition  ──────────────────  Always building   │
-  │                                                     │
-  └─────────────────────────────────────────────────────┘
+  📐  scalable architectures ........... distributed systems, patterns that don't rot
+  🤖  AI in production ................. real integrations, not demos
+  🧹  clean code ....................... readable > clever, always
+  📊  data & patterns .................. making sense of the noise
 ```
 
-<br/>
+---
+
+## 🚀 right now
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  [████████░░]  full-stack transition ............ in progress
+  [██████████]  building something new ........... active
+  [██████████]  open to collaborators ............ yes
 ```
 
-<br/>
+---
 
-## ⬡ &nbsp; I T E M &nbsp; D I S C O V E R Y
-
-<br/>
-
-> ### 📜 &nbsp; Tome of Systems & APIs
-> Detailed notes on scalable architectures, backend patterns, and the paths data takes through distributed systems.
-
-<br/>
-
-> ### 🔮 &nbsp; Soul of the Language Model
-> A fragment dedicated to integrating AI into real-world applications — where intelligence meets practical systems.
-
-<br/>
-
-> ### ⚗️ &nbsp; Shard of Clean Code
-> A small reminder that maintainable code outlives clever code. Best kept close during reviews and refactors.
-
-<br/>
-
-> ### 🔥 &nbsp; Ember of the Data Flame
-> Used to uncover patterns hidden inside large volumes of data. Burns brightest with patience and good tooling.
-
-<br/>
+## 📊 github stats
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  commits  ████████████████████░░░░  backend heavy, frontend growing
+  python   ███████████████░░░░░░░░░  primary language
+  ts/js    ██████████░░░░░░░░░░░░░░  picking up fast
 ```
 
-<br/>
+> live stats → [github.com/shashwat42](https://github.com/shashwat42)
 
-## ⬡ &nbsp; A R S E N A L
+---
 
-<br/>
-
-**Tongues spoken**
-
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=f5c542)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=f5c542)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=f5c542)
-
-<br/>
-
-**Schools of Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=f5c542)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=f5c542)
-![Express](https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=f5c542)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a1a1a?style=for-the-badge&logo=streamlit&logoColor=f5c542)
-
-<br/>
-
-**Relics & Catalysts**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=f5c542)
-![Prisma](https://img.shields.io/badge/Prisma-1a1a1a?style=for-the-badge&logo=prisma&logoColor=f5c542)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikit-learn&logoColor=f5c542)
-
-<br/>
+## 📬 find me
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  github  ──►  github.com/shashwat42
 ```
 
-<br/>
-
-## ⬡ &nbsp; C U R R E N T &nbsp; S T A T E
-
-<br/>
-
-```
-  🔥  Bonfire lit ────────────────────── forging something new
-  ⚔️  Covenant ────────────────  open to worthy collaborators
-  🗺️  Exploring ──────────────── the path from backend to full-stack
-```
-
-<br/>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+---
 
 <div align="center">
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/github-shashwat42-1a1a1a?style=for-the-badge&logo=github&logoColor=f5c542)](https://github.com/shashwat42)
-
-<br/>
-
-*You died trying to read undocumented APIs. &nbsp;+1,200 souls.*
-
-<br/>
-
+<sub>KIIT University · Bhubaneswar · Class of 2027</sub>
 </div>
