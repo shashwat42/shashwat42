@@ -51,7 +51,7 @@
 
 | 🟢 backend | 🟢 frontend | 🟢 ai / ml | 🟢 cloud & tooling |
 |:---:|:---:|:---:|:---:|
-| Node.js | React | Claude API | Git · GitHub |
+| Node.js | React | Seaborn | Git · GitHub |
 | Express.js | Tailwind CSS | scikit-learn | Firebase |
 | Prisma ORM | JavaScript | TensorFlow | Render |
 | PostgreSQL | Streamlit | OpenCV | Oracle Cloud |
