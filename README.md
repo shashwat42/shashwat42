@@ -11,7 +11,7 @@
 
 <br/>
 
-![Codify](https://img.shields.io/badge/Codify-shashwat42-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Codify](https://img.shields.io/badge/Me-shashwat42-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
 ### ▶ &nbsp; shashwat — *backend engineer*
 **`shashwat42`** &nbsp;·&nbsp; KIIT '27 &nbsp;·&nbsp; Delhi &nbsp;·&nbsp; he/him
@@ -113,6 +113,8 @@
 
 > full discography → [github.com/shashwat42](https://github.com/shashwat42)
 
+
+> Spotify ( ig I should include this too ) → [spotify](https://open.spotify.com/user/31eqvru55ysoighe7bqn4t3sogra?si=ad1a3918e2b54c7b)
 ---
 
 ## <img src="https://img.shields.io/badge/06-1DB954?style=flat-square"/> &nbsp; find_me.aac
